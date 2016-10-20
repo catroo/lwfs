@@ -12,3 +12,6 @@ https://github.com/gree/lwfs/releases contains prebuilt binaries and
 examples for Mac OS X and Windows. If you just want to use LWFS,
 please try them. You don't need to read INSTALL.md that contains more
 details for programmers.
+
+
+导出工具选择： 20141201-1830 这个版本
